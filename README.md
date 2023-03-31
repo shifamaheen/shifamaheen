@@ -1,20 +1,17 @@
 
-<h1 align="center">Hi there, I'm Shaik Sohail 👋</h1> 
+<h1 align="center">Hi there, I'm Shifa Maheen 👋</h1> 
 <h3 align="center">A Computer Science student.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-sohail-72" alt="shaik-sohail-72" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifamaheen" alt="" /></a> </p>
 
-  [![Website](https://img.shields.io/website?label=Shaiksohail.xyz&down_color=green&down_message=Up&style=for-the-badge&url=https%3A%2F%2Fshaiksohail.xyz)](https://shaiksohail.xyz/)
+  
 - 🔭 I'm currently working on web based projects.
 - 👯 I’m looking to collaborate on open source projects.
 - 😊 I like exploring and learning new skills as well as implement those in my projects.
 - 👨‍💻 You can also check my portfolio at https://shaiksohail.xyz/
 - 📫 How to reach me shaiksohailhu7n@gmail.com
 
-### Connect with me:
-[![globe-light](https://user-images.githubusercontent.com/106341416/172428077-1dbdab7d-8d0d-4745-94b3-a8dde2952954.svg)](https://shaiksohail.xyz)
-[![globe-dark](https://user-images.githubusercontent.com/106341416/172015767-8ef4947b-a1cf-4089-92e8-8422746b166f.svg)](https://shaiksohail.xyz)
-&nbsp;&nbsp;
+### Connect with me
 [![linkedin-light](https://user-images.githubusercontent.com/106341416/172428168-122049a0-e050-4ee1-8bba-3922efffe519.svg)](https://www.linkedin.com/in/shaik-sohail-a7b7aa240)
 [![linkedin-dark](https://user-images.githubusercontent.com/106341416/172016033-73dcf129-4191-4f27-9c43-c3eeaa71af0b.svg)](https://www.linkedin.com/in/shaik-sohail-a7b7aa240)
 &nbsp;&nbsp;
@@ -64,11 +61,11 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-sohail-72&show_icons=true&locale=en&layout=compact" alt="shaik-sohail-72" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifamaheen&show_icons=true&locale=en&layout=compact" alt="" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-sohail-72&show_icons=true&locale=en" alt="shaik-sohail-72" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shifamaheen&show_icons=true&locale=en" alt="" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-sohail-72" alt="shaik-sohail-72" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifamaheen" alt="" />
 
 <br />
 <br />
