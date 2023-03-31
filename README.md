@@ -4,15 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifamaheen" alt="" /></a> </p>
 
-  
-- 🔭 I'm currently working on web based projects.
-- 👯 I’m looking to collaborate on open source projects.
-- 😊 I like exploring and learning new skills as well as implement those in my projects.
-- 👨‍💻 You can also check my portfolio at https://shaiksohail.xyz/
-- 📫 How to reach me shaiksohailhu7n@gmail.com
+
+
+
+
 
 ### Connect with me
-[![linkedin-light](https://user-images.githubusercontent.com/106341416/172428168-122049a0-e050-4ee1-8bba-3922efffe519.svg)](https://www.linkedin.com/in/shaik-sohail-a7b7aa240)
+[![linkedin-light](https://user-images.githubusercontent.com/106341416/172428168-122049a0-e050-4ee1-8bba-3922efffe519.svg)](https://www.linkedin.com/in/shifa-maheen-2b7a10241)
 [![linkedin-dark](https://user-images.githubusercontent.com/106341416/172016033-73dcf129-4191-4f27-9c43-c3eeaa71af0b.svg)](https://www.linkedin.com/in/shaik-sohail-a7b7aa240)
 &nbsp;&nbsp;
 [![instagram-light](https://user-images.githubusercontent.com/106341416/172428250-edb7ac1b-d743-40e9-9374-2c5c7384a436.svg)](https://instagram.com/shaik_sohail_72?igshid=NWRhNmQxMjQ=)
