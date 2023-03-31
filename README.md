@@ -13,8 +13,8 @@
 [![linkedin-light](https://user-images.githubusercontent.com/106341416/172428168-122049a0-e050-4ee1-8bba-3922efffe519.svg)](https://www.linkedin.com/in/shifa-maheen-2b7a10241)
 [![linkedin-dark](https://user-images.githubusercontent.com/106341416/172016033-73dcf129-4191-4f27-9c43-c3eeaa71af0b.svg)](https://www.linkedin.com/in/shifa-maheen-2b7a10241)
 &nbsp;&nbsp;
-[![instagram-light](https://user-images.githubusercontent.com/106341416/172428250-edb7ac1b-d743-40e9-9374-2c5c7384a436.svg)](https://instagram.com/https://www.instagram.com/maheen__0046)
-[![instagram-dark](https://user-images.githubusercontent.com/106341416/172015786-63471544-fec8-454a-837b-4a046d92fde7.svg)](https://instagram.com/shttps://www.instagram.com/maheen__0046)
+[![instagram-light](https://user-images.githubusercontent.com/106341416/172428250-edb7ac1b-d743-40e9-9374-2c5c7384a436.svg)](https://www.instagram.com/maheen__0046)
+[![instagram-dark](https://user-images.githubusercontent.com/106341416/172015786-63471544-fec8-454a-837b-4a046d92fde7.svg)](https://www.instagram.com/maheen__0046)
 ### Languages and Tools:
 <img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="css3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
